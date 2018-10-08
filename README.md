@@ -1,3 +1,3 @@
 # xpress_
 
-![alt text](/public/img/app.png)
+![alt text](/public/public/img/app.png)
